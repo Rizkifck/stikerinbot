@@ -1,5 +1,5 @@
 {
-  "name": "stikerinbot",
+  "name": "Rrizki",
   "version": "1.1.1",
   "description": "WhatsApp Bot Ringan",
   "main": "index.js",
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ariffb25/stikerinbot.git"
+    "url": "git+https://github.com/Rizkifck/stikerinbot.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ariffb",
+  "author": "Rrizki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ariffb25/stikerinbot/issues"
+    "url": "https://github.com/Rizkifck/stikerinbot/issues"
   },
-  "homepage": "https://github.com/ariffb25/stikerinbot",
+  "homepage": "https://github.com/Rizkifck/stikerinbot",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
